@@ -1,0 +1,11 @@
+Item
+Python for Windows
+https://www.youtube.com/watch?v=S8oYT5am8j4
+
+Item
+Python for Mac
+https://www.youtube.com/watch?v=uA8SA81nivg
+
+Item
+Python for Linux
+https://www.youtube.com/watch?v=5jrSYA_Ki00
